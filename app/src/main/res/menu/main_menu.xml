@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item
+        android:id="@+id/icon"
+        app:showAsAction="always"
+        android:icon="@drawable/share"/>
+
+    <item
+        android:id="@+id/action_find_me"
+        app:showAsAction="never"
+        android:orderInCategory="1"
+        android:title="@string/menu_one" />
+
+    <item
+        android:id="@+id/action_change_f"
+        app:showAsAction="never"
+        android:orderInCategory="2"
+        android:title="@string/menu_two" />
+
+    <item
+        android:id="@+id/action_disable_ads"
+        app:showAsAction="never"
+        android:orderInCategory="3"
+        android:title="@string/menu_three" />
+    <item
+        android:id="@+id/action_rate_app"
+        app:showAsAction="never"
+        android:orderInCategory="4"
+        android:title="@string/menu_four" />
+    <item
+        android:id="@+id/action_share_videos"
+        app:showAsAction="never"
+        android:orderInCategory="5"
+        android:title="@string/menu_five" />
+
+    <item
+        android:id="@+id/action_settings"
+        app:showAsAction="never"
+        android:orderInCategory="6"
+        android:title="@string/menu_six" />
+
+</menu>

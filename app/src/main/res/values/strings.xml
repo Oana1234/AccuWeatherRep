@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DevWeather</string>
+    <string name="menu_one">Find Me (GPS)</string>
+    <string name="menu_two">Change to F</string>
+    <string name="menu_three">Disable Ads</string>
+    <string name="menu_four">Rate Our App</string>
+    <string name="menu_five">Share Weather Videos</string>
+    <string name="menu_six">Settings</string>
+</resources>
